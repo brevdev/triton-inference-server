@@ -89,6 +89,8 @@ Inference Server with the
 
 ## Serve a Model in 3 Easy Steps
 
+[![](https://uohmivykqgnnbiouffke.supabase.co/storage/v1/object/public/landingpage/createdevenv2.svg)](https://console.brev.dev/environment/new?repo=https://github.com/triton-inference-server/server.git&instance=g4dn.xlarge&diskStorage=250Gi&name=triton-inference-playground)
+
 ```bash
 # Step 1: Create the example model repository
 git clone -b r23.07 https://github.com/triton-inference-server/server.git
